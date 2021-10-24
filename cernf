@@ -1,0 +1,1 @@
+gfortran -o $1.out $1.f -L/sw/lib -lpacklib -lkernlib -lmathlib -lphtools
